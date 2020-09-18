@@ -1,4 +1,3 @@
-import { ShoppingBasket } from "@material-ui/icons";
 import React from "react";
 import "./Subtotal.css";
 import CurrencyFormat from "react-currency-format";
