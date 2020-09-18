@@ -15,6 +15,10 @@ function Checkout() {
                 </div>
             </div>
             <div className='checkout_right'>
+                <img
+                    src='https://images-eu.ssl-images-amazon.com/images/G/31/checkout/assets/TM_desktop._CB443006202_.png'
+                    alt='no'
+                />
                 <Subtotal />
             </div>
         </div>
